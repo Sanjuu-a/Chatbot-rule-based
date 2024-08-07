@@ -1,2 +1,5 @@
 # Chatbot-rule-based
-A friendly chatbot using python which starts by greeting users. It converses about our planet earth. It tells interesting things about the earth, gives unknown facts, information about plants and animals, technologies used by humans and also the ways in which we can protect our planet earth.
+* A friendly chatbot using python which starts by greeting users. 
+* The text discusses our planet Earth, sharing fascinating details and lesser-known facts. 
+* It provides information about the plants and animals that inhabit our world, the technologies humans have developed, and the various methods we can use to protect and 
+  preserve our planet.
